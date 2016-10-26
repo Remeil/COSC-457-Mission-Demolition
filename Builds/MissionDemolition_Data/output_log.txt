@@ -14,13 +14,13 @@ Platform assembly: B:\Users\John\Documents\Mission Demolition Prototype\Builds\M
 Loading B:\Users\John\Documents\Mission Demolition Prototype\Builds\MissionDemolition_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: B:\Users\John\Documents\Mission Demolition Prototype\Builds\MissionDemolition_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading B:\Users\John\Documents\Mission Demolition Prototype\Builds\MissionDemolition_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.113 seconds
+- Completed reload, in  0.119 seconds
 Platform assembly: B:\Users\John\Documents\Mission Demolition Prototype\Builds\MissionDemolition_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: B:\Users\John\Documents\Mission Demolition Prototype\Builds\MissionDemolition_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.654350 ms
+UnloadTime: 0.729613 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 27e4 -> priority: 1 
+  Thread -> id: 213c -> priority: 1 
