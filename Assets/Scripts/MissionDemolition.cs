@@ -142,4 +142,9 @@ public class MissionDemolition : MonoBehaviour
     {
         S.shotsTaken++;
     }
+
+    public static void RemoveShotFired()
+    {
+        S.shotsTaken--;
+    }
 }
